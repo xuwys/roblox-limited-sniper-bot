@@ -1,0 +1,3 @@
+To start the snipe bot, download the exe file which will load into the snipe bot
+to configure the bot go to configure settings then enter the limiteds that you are looking to snipe
+(NOTE, AV will need to be turned of to start the anti virus)
